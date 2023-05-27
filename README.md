@@ -10,7 +10,7 @@ I'm a Cloud Engineering Student who's currently enrolled at [AltSchool Africa](/
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Cloud Services and Linux (System Administration).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Cloud Engineer or DevOps Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1O-AdFx2VrtkNyDHt0diaaI23H9pQI9OeVP6kywyIdIo/edit?usp=sharing) and contact me by emailing davidakalugo@gmail.com.
 
 ---
